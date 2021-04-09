@@ -13,7 +13,6 @@ const Contact = ({contact_data}) => {
 
     if (contact_data) {
         var name = contact_data.main.name;
-        var street = contact_data.main.address.street;
         var city = contact_data.main.address.city;
         var state = contact_data.main.address.state;
         var zip = contact_data.main.address.zip;

@@ -4,7 +4,6 @@ const About = ({about_data}) => {
     if (about_data) {
         var name = about_data.main.name;
         var bio = about_data.main.bio;
-        var street = about_data.main.address.street;
         var city = about_data.main.address.city;
         var state = about_data.main.address.state;
         var zip = about_data.main.address.zip;
