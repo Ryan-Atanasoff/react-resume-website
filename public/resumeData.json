@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Ryan Atanasoff",
+    "first_name":"Ryan",
+    "occupation":"Software Engineer",
+    "description":"I'm a software engineer based in Madison, Wisconsin. This is my website. Make yourself at home.",
+    "image":"profilepic.jpg",
+    "bio":"My name is Ryan but most people just call me Ryan. I'm originally from Dallas but I now live in Madison, Wisconsin with my lovely wife and our okay dog. I am interested in software development opportunities conducted remotely, and have a special interest in web development. I enjoy hiking, programming, and learning about decentralized finance/cryptocurrencies.",
+    "contactmessage":"Let's chat.",
+    "email": "ryan.atanasoff@gmail.com",
+    "phone": "214-986-8690",
+    "user_id": "user_2AMC0EFrke8DRZBds9yCm",
+    "service_id": "service_dcbrunu",
+    "template_id": "template_o6s9wyn",
+    "address":{
+      "street":"117 S Hamilton St. Apt. 911",
+      "city":"Madison",
+      "state":"WI",
+      "zip": "53703"
+    },
+    "website": "https://www.ryan-atanasoff.com",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ryan-atanasoff/"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Ryan-Atanasoff/"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are my self-evaluated skill levels. Curious about their accuracy? Hire me and see for yourself!",
+    "education":[
+      {
+        "school":"Baylor University",
+        "degree":"Bachelor of Science in Bioinformatics",
+        "minor":"Minor in Chemistry",
+        "graduated":"2017",
+        "description":"Waco, TX"
+      }
+    ],
+    "work":[
+      {
+        "company":"TDS Telecom",
+        "title":"Software Engineer II | DevOps Engineer",
+        "years":"September 2019 - Present",
+        "description":"Led development and design of order processing for commercially owned multi-dwelling units and their residential tenants, which included discussing and implementing requirements to effectuate stakeholders' goals; participating in cross-team stand-up meetings; and developing new functionality within Siebel CRM.",
+        "description1":"Assisted in developing new features for order processing and facilitating customer follow-up regarding unservicable addresses with facilities issues by implementing requirements to effectuate stakeholders' goals; participating in daily cross-team stand-up meetings; and developing new functionality for order processing within Siebel CRM.",
+        "description2":"Created Python-based Jenkins jobs to automate previously manual tasks.",
+        "description3":"Diagnosed and resolved user issues in end-to-end and production environments."
+      },
+      {
+        "company":"FlowTrac",
+        "title":"Software Engineer | Mobile Developer",
+        "years":"September 2018 - September 2019",
+        "description":"Designed and developed new Android/iOS applications as well as new features for existing Android/iOS applications for clients using Appcelerator's JavaScript framework, Titanium.",
+        "description1":"Developed offline functionality for pending tasks and new syncing feature for when device comes online.",
+        "description2":"Created functional base package application from new and existing modules.",
+        "description3":"Maintained existing code base."
+      },
+      {
+        "company":"FlowTrac",
+        "title":"Software Engineer | Backend Developer",
+        "years":"June 2018 - September 2018",
+        "description":"Implemented new service for simplified work-order processing using FlowTrac's in-house PHP framework.",
+        "description1":"Conducted daily design and review meetings with stakeholders."
+      },
+      {
+        "company":"Baylor University",
+        "title":"Intern | Data Visualizer",
+        "years":"August 2017 - December 2017",
+        "description":"Created new data visualizations for professor's clustering, pathway alignment, and network alignment algorithms using the Cytoscape JavaScript library.",
+        "description2":"Refactored Perl scripts into Python to generate visualization data."
+      },
+      {
+        "company":"Baylor University",
+        "title":"Computer Science Program | Mentor",
+        "years":"August 2017 - December 2017",
+        "description":"Tutored and provided general guidance to freshmen majoring in Computer Science."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"HTML",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"65%"
+      },
+      {
+        "name":"GIT",
+        "level":"65%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Linux",
+        "level":"60%"
+      },
+      {
+        "name":"SQL",
+        "level":"75%"
+      }
+    ]
+  }
+}
