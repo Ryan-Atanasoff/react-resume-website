@@ -13,13 +13,13 @@
     "service_id": "service_dcbrunu",
     "template_id": "template_o6s9wyn",
     "address":{
-      "street":"117 S Hamilton St. Apt. 911",
+      "street":"",
       "city":"Madison",
       "state":"WI",
       "zip": "53703"
     },
     "website": "https://www.ryan-atanasoff.com",
-    "resumedownload":"resume.pdf",
+    "resumedownload":"resume_2021.pdf",
     "social":[
       {
         "name":"linkedin",

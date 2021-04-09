@@ -105,7 +105,6 @@ const Contact = ({contact_data}) => {
                         <h4>Address</h4>
                         <p className="address">
                             {name}<br />
-                            {street} <br />
                             {city}, {state} {zip}<br />
                         </p>
                         <h4>Phone</h4>
