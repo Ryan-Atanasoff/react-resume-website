@@ -33,7 +33,7 @@ const About = ({about_data}) => {
                  </div>
                  <div className="columns download">
                     <p>
-                       <a href={resumeDownload} className="button" download={resumeDownload} target="_blank" rel="noreferrer" filename="atanasoff_resume"><i className="fa fa-download"></i>Download Resume</a>
+                       <a href={resumeDownload} className="button" download={resumeDownload} target="_blank" rel="noreferrer" filename="atanasoff_resume"><i className="fa fa-download"></i>Resume</a>
                     </p>
                  </div>
               </div>
